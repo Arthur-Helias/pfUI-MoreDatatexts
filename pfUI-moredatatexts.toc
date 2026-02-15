@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [More Datatexts]
+## Version: 1.0
+## Author: Walter Bennet
+## Notes: An external module for |cff33ffccpf|r|cffffffffUI|r that adds more datatexts!
+## Dependencies: pfUI
+## URL: https://github.com/Arthur-Helias/pfUI-MoreDatatexts
+
+# Main Addon
+pfUI-moredatatexts.lua
+pfUI-moredatatexts-config.lua
+
+# Datatexts
+datatexts\Reputation.lua
+datatexts\WIM.lua
