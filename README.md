@@ -15,6 +15,11 @@ Some datatexts require extra addons to be enabled.
 
 ## Screenshots
 
+<img width="371" height="233" alt="image" src="https://github.com/user-attachments/assets/cece4667-9438-4d36-af92-82e82d59cbaa" /><br>
+*The reputation tracker datatext.*<br><br><br>
+<img width="311" height="175" alt="image2" src="https://github.com/user-attachments/assets/38001845-6f6b-420c-9b1c-58d5dd7e4f02" /><br>
+*WIM conversations tracker datatext.*
+
 ## Installation
 
 This addon requires [pfUI](https://github.com/shagu/pfUI) or one of its maintained forks, like [me0wg4ming's fork](https://github.com/me0wg4ming/pfUI). Make sure to download and install one of them first.
@@ -39,14 +44,14 @@ None so far. Please report any issues you encounter through the `Issues` tab on 
 
 ## Compatibility
 
-This addon was designed and tested for TurtleWoW. It should be compatible with any 1.12 client that does not add or modify zones.  
+This addon was designed and tested for TurtleWoW. It should be compatible with any 1.12 clients.  
 This addon is compatible with [the original pfUI by Shagu](https://github.com/shagu/pfUI), but also its actively maintained forks such as [me0wg4ming's](https://github.com/me0wg4ming/pfUI).  
 
 ## Addon Recommendations
 
 Here are a few other addons that improve pfUI or other parts of the game and do not conflict with this addon:
 
-- [pfUI-LocationPlus](https://github.com/Arthur-Helias/pfUI-LocationPlus) - Another module for pfUI that adds two extra panels compatible with this addon.
+- [pfUI-LocationPlus](https://github.com/Arthur-Helias/pfUI-LocationPlus) - Another module for pfUI that adds a location frame and two extra panels which are compatible with this addon.
 - [pfUI-addonskinner](https://github.com/jrc13245/pfUI-addonskinner) - Another module for pfUI that skins other addons to match the style of pfUI.
 - [ZonesLevel](https://github.com/Arthur-Helias/ZonesLevel) - Adds zones level range to your world map.
 
