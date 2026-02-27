@@ -54,6 +54,7 @@ Here are a few other addons that improve pfUI or other parts of the game and do 
 - [pfUI-LocationPlus](https://github.com/Arthur-Helias/pfUI-LocationPlus) - Another module for pfUI that adds a location frame and two extra panels which are compatible with this addon.
 - [pfUI-addonskinner](https://github.com/jrc13245/pfUI-addonskinner) - Another module for pfUI that skins other addons to match the style of pfUI.
 - [ZonesLevel](https://github.com/Arthur-Helias/ZonesLevel) - Adds zones level range to your world map.
+- [Better Character Panel](https://github.com/Arthur-Helias/BetterCharacterPanel) - Improves the character and inspect panel by adding enchants effect and more!
 
 ## Contributing
 
