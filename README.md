@@ -16,11 +16,11 @@ Some datatexts require extra addons to be enabled.
 
 ## Screenshots
 
-<img width="371" height="233" alt="image" src="https://github.com/user-attachments/assets/cece4667-9438-4d36-af92-82e82d59cbaa" /><br>
+<img width="371" height="233" alt="Reputation" src="https://github.com/user-attachments/assets/cece4667-9438-4d36-af92-82e82d59cbaa" /><br>
 *The reputation tracker datatext.*<br><br><br>
-<img width="311" height="175" alt="image2" src="https://github.com/user-attachments/assets/38001845-6f6b-420c-9b1c-58d5dd7e4f02" /><br>
+<img width="311" height="175" alt="WIM" src="https://github.com/user-attachments/assets/38001845-6f6b-420c-9b1c-58d5dd7e4f02" /><br>
 *WIM conversations tracker datatext.*<br><br><br>
-<img width="371" height="233" alt="image2" src="https://github.com/user-attachments/assets/d505fa49-4618-4a40-b0ec-bc603199a103" /><br>
+<img width="371" height="233" alt="MessageBox" src="https://github.com/user-attachments/assets/d505fa49-4618-4a40-b0ec-bc603199a103" /><br>
 *MesssageBox conversations tracker datatext*
 
 ## Installation
