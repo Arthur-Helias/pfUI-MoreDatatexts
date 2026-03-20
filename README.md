@@ -12,7 +12,7 @@ Some datatexts require extra addons to be enabled.
 | ------------- | ----------- | :------------: | :---------------: |
 | Reputation | Tracks any faction reputation changes or your watched faction's reputation. | 1 | — |
 | WIM | Keep track of conversations and be alerted to newly received whispers. | — | [WIM](https://github.com/refaim/WIM) |
-| MessageBox | Modern Messenger-style addon to handle your whispers conversations. | - | [MessageBox](https://github.com/tilare/MessageBox) |
+| MessageBox | Modern Messenger-style addon to handle your whispers conversations. | — | [MessageBox](https://github.com/tilare/MessageBox) |
 
 ## Screenshots
 
@@ -71,3 +71,4 @@ You can also suggest datatexts ideas through the `Issues` tab on this repository
 [Shagu](https://github.com/shagu) - pfUI  
 [dein0s](https://github.com/Arthur-Helias) - Code inspiration from pfUI-addonskinner  
 [Refaim](https://github.com/refaim) - Maintaining the current version of WIM  
+[tilate](https://github.com/tilare) - Contributions, MessageBox

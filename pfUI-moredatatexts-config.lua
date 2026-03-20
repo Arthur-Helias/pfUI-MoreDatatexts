@@ -87,7 +87,8 @@ local function CreateGuiConfigEntries()
             end
         end
 
-        CreateConfig(nil, T["More Datatexts Version: 1.0"], nil, nil, "header")
+        CreateConfig(nil, T["More Datatexts Version: " .. PFUIMDTXT_VERSION_MAJOR .. "." .. PFUIMDTXT_VERSION_MINOR
+        .. "." .. PFUIMDTXT_VERSION_PATCH], nil, nil, "header")
         CreateConfig(nil, T["Website"], nil, nil, "button", function()
             pfUI.chat.urlcopy.CopyText("https://github.com/Arthur-Helias/pfUI-MoreDatatexts")
         end)

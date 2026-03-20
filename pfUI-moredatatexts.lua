@@ -1,3 +1,7 @@
+PFUIMDTXT_VERSION_MAJOR = "1"
+PFUIMDTXT_VERSION_MINOR = "1"
+PFUIMDTXT_VERSION_PATCH = "0"
+
 pfUI:RegisterModule("moredatatexts", function()
     local config
     local messagePref = GetAddOnMetadata("pfUI-moredatatexts", "Title") .. "|r: "
