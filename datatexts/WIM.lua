@@ -24,8 +24,7 @@ pfUI.moredatatexts:RegisterDatatext("WIM", function()
     end
 
     local function UpdateWIM()
-        if not C or not C.moredatatexts or not C.moredatatexts.WIM then
-            pfUI.panel:OutputPanel("WIM", "", datatext.Tooltip, datatext.Click)
+        if not C or not C.moredatatexts then
             return
         end
 
