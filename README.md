@@ -29,7 +29,7 @@ This addon requires [pfUI](https://github.com/shagu/pfUI) or one of its maintain
 
 ### Wuddle (**Recommended**)
   
-1. Open [Wuddle](https://github.com/ZythDr/Wuddle) and navigate to the `ADDONS` tab at the top.
+1. Open [Wuddle](https://github.com/ZythDr/Wuddle) and navigate to the `Addons` tab at the top.
 2. Click the `+ Add` button and paste the URL `https://github.com/Arthur-Helias/pfUI-MoreDatatexts.git` into the `Addon Repo URL` field, then click the `Add addon` button.
 3. Enable the addon from the addons menu on the character selection screen.
 
