@@ -27,10 +27,10 @@ Some datatexts require extra addons to be enabled.
 
 This addon requires [pfUI](https://github.com/shagu/pfUI) or one of its maintained forks, like [me0wg4ming's fork](https://github.com/me0wg4ming/pfUI). Make sure to download and install one of them first.
 
-### Turtle WoW Launcher (**Recommended**)
-
-1. Open the Turtle WoW Launcher and navigate to the `ADDONS` tab at the top.
-2. Press the `Add new addon` button and paste the following URL into the field: `https://github.com/Arthur-Helias/pfUI-MoreDatatexts.git`.
+### Wuddle (**Recommended**)
+  
+1. Open [Wuddle](https://github.com/ZythDr/Wuddle) and navigate to the `ADDONS` tab at the top.
+2. Click the `+ Add` button and paste the URL `https://github.com/Arthur-Helias/pfUI-MoreDatatexts.git` into the `Addon Repo URL` field, then click the `Add addon` button.
 3. Enable the addon from the addons menu on the character selection screen.
 
 ### Manual installation
